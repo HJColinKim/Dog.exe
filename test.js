@@ -1,0 +1,3 @@
+const data = [{"breeds":[{"weight":{"imperial":"23 - 28","metric":"10 - 13"},"height":{"imperial":"15.5 - 20","metric":"39 - 51"},"id":111,"name":"Finnish Spitz","bred_for":"Hunting birds, small mammals","breed_group":"Non-Sporting","life_span":"12 - 15 years","temperament":"Playful, Loyal, Independent, Intelligent, Happy, Vocal","reference_image_id":"3PjHlQbkV"}],"id":"6_lwtm_Zr","url":"https://cdn2.thedogapi.com/images/6_lwtm_Zr.jpg","width":732,"height":732}];
+
+console.log(data[0].breeds[0].name);
