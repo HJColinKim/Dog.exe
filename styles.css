@@ -348,7 +348,7 @@ img {
   .form-control input:focus,
   .form-control input:valid {
     outline: 0;
-    border-bottom-color: lightblue;
+    border-bottom-color: rgb(108, 108, 108);
   }
   
   .form-control label {
@@ -368,6 +368,6 @@ img {
   
   .form-control input:focus+label span,
   .form-control input:valid+label span {
-    color: lightblue;
+    color: rgb(108, 108, 108);
     transform: translateY(-30px);
   }
