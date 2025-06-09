@@ -1,5 +1,5 @@
 
-const fetchLink = "https://api.thedogapi.com/v1/images/search?api_key=";
+const fetchLink = "https://api.thedogapi.com/v1/images/search?api_key="; //No requirement for specific Key, can fulfill the fetch request via general link 
 
 const image = document.querySelector(".actualImage");
 const breed = document.querySelector(".breed");
