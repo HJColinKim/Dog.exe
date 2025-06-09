@@ -121,7 +121,7 @@ img {
     border-radius: 100%;
     position: relative;
     transition: .3s;
-    margin-top: 70px;
+    margin-top: 30px;
   }
   
   .button .back {
@@ -371,3 +371,5 @@ img {
     color: rgb(108, 108, 108);
     transform: translateY(-30px);
   }
+
+  

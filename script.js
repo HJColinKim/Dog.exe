@@ -1,6 +1,5 @@
-// live_U8h56m1mrNu3Q8ZgpA5stez00OxiL6bhAUJSBFVm5P0y84pNljxAoZ650jDWYI0S
 
-const fetchLink = "https://api.thedogapi.com/v1/images/search?api_key=live_U8h56m1mrNu3Q8ZgpA5stez00OxiL6bhAUJSBFVm5P0y84pNljxAoZ650jDWYI0S";
+const fetchLink = "https://api.thedogapi.com/v1/images/search?api_key=";
 
 const image = document.querySelector(".actualImage");
 const breed = document.querySelector(".breed");
